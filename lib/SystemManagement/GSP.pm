@@ -10,7 +10,7 @@ use Carp qw(confess);
 
 our @ISA = qw(Exporter);
 
-our $VERSION = 0.001_000;
+our $VERSION = 1.000_000;
 
 =head1 NAME
 
